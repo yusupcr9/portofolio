@@ -55,9 +55,9 @@ $(function () {
                         .append("</button>");
                     $("#success > .alert-danger").append(
                         $("<strong>").text(
-                            "Sorry " +
+                            "Maaf " +
                                 firstName +
-                                ", it seems that my mail server is not responding. Please try again later!"
+                                ", Fitur ini belum bisa digunakan. Silahkan klik icon sosial media dibawah untuk menghubungi saya!"
                         )
                     );
                     $("#success > .alert-danger").append("</div>");
